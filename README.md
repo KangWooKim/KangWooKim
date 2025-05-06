@@ -17,7 +17,7 @@
 ## 🔍 My Projects
 
 ### 🎮 현재 진행 중인 프로젝트
-- [HuntingSprit](https://github.com/KangWooKim/HuntingSprit) - RPG/로그라이크 스타일의 보스 사냥 멀티플레이어 게임 프로젝트 (Unreal Engine 5)
+- [HuntingSpirit](https://github.com/KangWooKim/HuntingSprit) - RPG/로그라이크 스타일의 보스 사냥 멀티플레이어 게임 프로젝트 (Unreal Engine 5)
 
 ### Programmers Solutions
 - [Programmers LV1](https://github.com/KangWooKim/Programmers_LV1) - 프로그래머스 레벨 1 문제 풀이
