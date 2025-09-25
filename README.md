@@ -8,11 +8,8 @@
 열정적인 개발자로서 알고리즘과 문제 해결에 큰 관심을 가지고 있습니다. 프로그래머스 문제 풀이를 통해 코딩 실력을 꾸준히 향상시키고 있으며, 다양한 프로젝트를 통해 실무 경험을 쌓아가고 있습니다.
 
 ## 💻 Technologies & Skills
-- **Languages:** C++, Python, JavaScript
-- **Frontend:** React, HTML, CSS
-- **Backend:** Node.js, Django
-- **Database:** MySQL, MongoDB
-- **Tools:** Git, Docker, VS Code
+- **Languages:** C++, C#
+- **Tools:** Git,  VS Code
 
 ## 🔍 My Projects
 
