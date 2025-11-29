@@ -1,8 +1,5 @@
 # 안녕하세요, 김강우입니다! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KangWooKim&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
 
 ## 🚀 About Me
 열정적인 개발자로서 알고리즘과 문제 해결에 큰 관심을 가지고 있습니다. 프로그래머스 문제 풀이를 통해 코딩 실력을 꾸준히 향상시키고 있으며, 다양한 프로젝트를 통해 실무 경험을 쌓아가고 있습니다.
